@@ -1,6 +1,15 @@
-# pacman
-Pacman Project
+# Pacman Project
 
+![pacman](https://github.com/jtpearson95/pacman/assets/130475233/cb960dab-06a8-448f-84ad-ea3f02645ab0)
+
+# How to Run:  
+Download all documents and open the html file in your browser.
+
+
+# Roadmap of future improvements: 
+I'd like to play around with the images so that they change position, color and open and close their mouths like in the game.
+
+# License
 MIT License
 
 Copyright (c) [2023] [JuliaPearson]
