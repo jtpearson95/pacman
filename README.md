@@ -2,12 +2,13 @@
 
 ![pacman](https://github.com/jtpearson95/pacman/assets/130475233/cb960dab-06a8-448f-84ad-ea3f02645ab0)
 
+Here, we worked with provided code. The aim was to create a dynamic interface where you can click on the "add pacman" button in order to place figures on the screen, and then click on the "start game" button for the figures to then bounce around from margin to margin at random speed.
+
 # How to Run:  
 Download all documents and open the html file in your browser.
 
-
 # Roadmap of future improvements: 
-I'd like to play around with the images so that they change position, color and open and close their mouths like in the game.
+I'm going to continue working with this code in order to get the pacmen to change position upon hitting the margins, and getting them to open and close their mouths like in the videogame. There's a lot more you can do here - add another button to have the game stop, or have buttons that can either speed up or slow down the velocity... this was a project where I leaned on the answer key and I'd like to revisit.
 
 # License
 MIT License
